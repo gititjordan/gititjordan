@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Jordan
+
+- 🌱 I’m currently learning Java | Python | JS
+- 📫 How to reach me: thorntonjordan7@gmail.com
 
 <!--
 **gititjordan/gititjordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
