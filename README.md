@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jordan
 
-- 🌱 I’m currently learning Java | Python | JS
+- 🌱 I’m currently learning Java | Python 
 - 📫 Reach me @: thorntonjordan7@gmail.com
 
 <!--
